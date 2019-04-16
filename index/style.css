@@ -1,0 +1,354 @@
+body {
+	background-color: #2f3436; 
+	background-image: url(adv.png); 
+	opacity:0.85;
+	background-size: cover;
+	
+	background-repeat: no-repeat;
+	width: 300px;
+	height: 800px;
+
+
+
+	position: relative;
+	margin:auto;
+}
+
+#menu {
+	background-color: #2f3436;
+	height: 42px ;
+	max-width:100%;
+	color: #b8b8b8;
+	font-family: Century gothic;
+	position: relative;
+
+
+
+
+}
+
+#botmenu:hover {
+	width:40px;
+	height: 40px;
+	padding-right: 10px;
+	opacity: 0.5;
+
+}
+
+#botmenu {
+	width:40px;
+	height: 40px;
+	padding-right: 10px;
+	opacity: 1;
+
+}
+
+#lawmenu:hover {
+	height: 42px;
+	
+	padding-right: 10px;
+	opacity: 0.5;
+
+}
+
+#lawmenu {
+	height: 42px;
+	padding-right: 10px;
+	opacity: 1;
+
+}
+
+/*/#cinza{
+	background-color: #2f3436;
+	font-family: Century gothic;
+	position: relative;
+	background-position: center;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 25px;
+	height: 900px;
+}
+/*/
+
+b{
+	font-size: 20px;
+	padding-left: 15px;
+
+
+	
+}
+
+#law:hover{
+	position: relative;
+	text-decoration: none;
+	color: #b8b8b8;
+	opacity: 0.5;
+	
+
+}
+#law{
+	position: relative;
+	text-decoration: none;
+	color: #b8b8b8;
+	opacity: 1;
+	
+
+	
+}
+
+
+a:hover{
+	position: relative;
+	text-decoration: none;
+	color: #b8b8b8;
+	opacity: 0.5;
+
+}
+
+a{
+	position: relative;
+	text-decoration: none;
+	color: #b8b8b8;
+	opacity: 1;
+}
+
+
+#logo {
+		position:relative;
+		left: 100%;
+
+}
+
+#corpo1 {
+	
+	font-family: Century gothic;
+	text-align: center;
+	margin-block-start: 70px;
+	margin-block-end:70px;
+
+	background-color: #2f3436;
+	color: #b8b8b8;
+
+}
+
+#texto{
+	padding-block-start: 10px; 
+		 
+	padding-left:10px ;
+	padding-right: 10px;
+}
+
+#corpo2{
+	text-align: center;
+}
+
+#menulayout{
+	background-color: #2f3436;
+	height: 400px ;
+	max-width:100%;
+	color: #b8b8b8;
+	font-family: Century gothic;
+	position: relative;
+}
+
+#home:hover{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 0.5;
+	text-align: center;
+
+}
+#home{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 1;
+	text-align: center;
+	
+}
+
+#home2{
+	
+	text-align: center;
+	background-color:  #b8b8b8;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+	
+	
+}
+
+
+#contatos:hover{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 0.5;
+
+}
+#contatos{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 1;
+
+}
+
+#contatos2{
+	padding-top: 0px;
+	text-align: center;
+	background-color:  #b8b8b8;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+
+}
+
+#localizacao:hover{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 0.5;
+	text-align: center;
+
+}
+#localizacao{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 1;
+	text-align: center;
+	
+}
+
+#localizacao2{
+	padding-top: 0px;
+	text-align: center;
+	background-color:  #b8b8b8;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+
+
+#solucoes:hover{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 0.5;
+
+}
+#solucoes{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 1;
+
+	
+}
+
+#solucoes2{
+	padding-top: 0px;
+	text-align: center;
+	background-color:  #b8b8b8;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+
+#somos:hover{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 0.5;
+
+
+}
+#somos{
+	position: relative;
+	text-decoration: none;
+	color: #2f3436;
+	opacity: 1;
+
+
+	
+}
+
+#somos2{
+	padding-top: 0px;
+	text-align: center;
+	background-color:  #b8b8b8;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+#mapa {
+	
+	font-family: Century gothic;
+	/*text-align: center;*/
+	margin-block-start: 20px;
+	margin-block-end:70px;
+
+	background-color: #2f3436;
+	color: #b8b8b8;
+	height: 400px;
+
+}
+
+#mapa2{
+	font-family: Century gothic;
+	text-align: center;
+	margin-block-start: 25px;
+
+	background-color: #2f3436;
+	color: #b8b8b8;
+	height: 180px;
+}
+
+
+#padrao{
+	font-family: Century gothic;
+	margin-block-start: 10px;
+	margin-block-end:70px;
+
+	background-color: #2f3436;
+	color: #b8b8b8;
+	height: 700px;
+	
+	
+}
+
+#contato1{
+		padding-left:5px ;
+		padding-right: 5px;
+		background-color: #2f3436;
+
+
+}
+
+#direitos{
+	padding-top: 10px;
+}
+
+#mapacenter{
+
+	font-family: Century gothic;
+	text-align: center;
+	margin-block-start: 00px;
+	margin-block-end:70px;
+
+	background-color: #2f3436;
+	color: #b8b8b8;
+	height: 400px;
+}
+
+#textohome{
+	padding-block-start: 10px; 
+	padding-block-end:10px;	 
+	padding-left:10px ;
+	padding-right: 10px;
+}
